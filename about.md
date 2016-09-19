@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Shoot me an email at: [matt.j.glick@gmail.com](mailto:matt.j.glick@gmail.com.com) or reach out to me on [LinkedIn](http://linkedin.com/in/mattjglick)
