@@ -1,3 +1,10 @@
 - gitflow: importance, issues, developer pitfalls
 
 - python recursively traversing json obj
+
+- python unit tests
+
+- git commands
+    part 1 - add, commit, push
+    part 2 - rebasing
+    part 3 - gitflow?
