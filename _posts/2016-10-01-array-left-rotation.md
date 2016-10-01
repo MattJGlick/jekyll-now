@@ -5,7 +5,7 @@ title: HackerRank - Array Left Rotation
 
 Back in college I read Cracking the Coding Interview which helped prepare me for interviews and such. Just the other day the author of CTCI put up some problems on HackerRank, so I figured I would give some of them a go!
 
-First problem I worked on was [Array Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation). You're giving an array of integers and a number to left shift the array on. Then when it's all said and done you need to print all of the elements out.
+First problem I worked on was [Array Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation). You're given an array of integers and a number to left shift the array on. Then when it's all said and done you need to print all of the elements out.
 
 ## Realizations:
 
@@ -72,5 +72,5 @@ This runtime really should O(k), considering it's only based on the shift value.
 
 ## Thoughts
 
-Pretty simple problem, I like by "Better Solution" more for sure, but it's worth doing them both I think. Either way good practice for using the array functions.
+Pretty simple problem, I like my "Better Solution" more for sure, but it's worth doing them both I think. Either way good practice for using the array functions.
 
