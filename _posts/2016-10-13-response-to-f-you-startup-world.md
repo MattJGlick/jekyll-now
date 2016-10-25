@@ -21,7 +21,7 @@ I've worked at the soulless corporations and the boring midsized companies. Real
 
 Maybe this is just the ramblings of a 20-something who hasn't burned out yet. I haven't ever had to deal with a shitty manager, a difficult board/investors, an in-experienced architect. I've had difficut problems put in front of me, but they've always been more fun than the boring stuff I've seen before. It's an exciting thing to be apart of a new and growing company.
 
-I **enjoy** what I'm workign on. I **enjoy** being challenged. I **enjoy** being around people who are obviously way smarter than I'll ever be. If you don't enjoy your job, maybe you should go find another one. 
+I **enjoy** what I'm working on. I **enjoy** being challenged. I **enjoy** being around people who are obviously way smarter than I'll ever be. If you don't enjoy your job, maybe you should go find another one. 
 
 
 --
