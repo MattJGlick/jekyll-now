@@ -8,3 +8,5 @@
     part 1 - add, commit, push
     part 2 - rebasing
     part 3 - gitflow?
+
+- important non-language specific things for devs
