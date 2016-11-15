@@ -21,8 +21,9 @@ YES
 ## Realizations:
 The problem name gives away the obvious data structure. Just need to push the "left" brackets onto the stack as I get them and then pop them off to comapare against the right ones. If we don't find a matching one then we know that we aren't balanced.
 
-## <Solution>
-Initially I forgot to account for 2 specific case. The first was a single right bracket, since it's never added to the stack, the stack was seen as empty. The second one was forgetting to check it the stack had anything on it before popping things off. Both were fairly easy to fix!
+## Stack! 
+Initially I forgot to account for 2 specific cases. The first was a single right bracket, since it's never added to the stack, the stack was seen as empty. The second one was forgetting to check it the stack had anything on it before popping things off. Both were fairly easy to fix!
+
 
 ```
 def is_matched(expression):
@@ -45,7 +46,7 @@ def is_matched(expression):
             return False
             
     return len(stack) == 0
-'''
+```
 
 ### Anaylsis
 
