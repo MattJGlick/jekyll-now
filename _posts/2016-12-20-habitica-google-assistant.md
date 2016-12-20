@@ -28,7 +28,7 @@ I found a "that" section called "Maker" in IFTTT that allows you to send HTTP re
 Since I can still make HTTP requests from IFTTT, I decided to throw together a Node.js application that sits between IFTTT and Habitica. The simple app had the following requirements:
 
 1. Can receive requests with everything in the URL.
-2. Has some type of token authenication so that I can verify that only I can add tasks to my To-Do list
+2. Has some type of token authentication so that I can verify that only I can add tasks to my To-Do list
 3. Has the ability to make requests to Habitica with my Habitica API credentials and a task.
 
 [This](https://github.com/MattJGlick/habitica_todo_exchange) is what I was able to come up with. Super simple application that does some basic key checking for verification, then makes a request to Habitica with the required tokens and the task to be created. Most of the logic sits on the index.js file and is as follows:
@@ -85,7 +85,7 @@ Once it was all good to go, I pushed it up to Heroku so I can access it from IFT
 So the final workflow for the "task" is as follows:
 
 1. I tell Google Assistant: "Note to self, mow the lawn"
-2. Google Assitant adds the task to my todoist list
+2. Google Assistant adds the task to my todoist list
 3. IFTTT polls my todoist lists for new tasks and picks it up
 4. IFTTT triggers and calls my endpoint with the endpoint API key
 5. My endpoint verifies the key and hits the Habitica API with my API user/token and the new task
