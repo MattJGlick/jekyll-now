@@ -7,7 +7,7 @@ I've been using [Habitica](https://habitica.com) for a little over a year now an
 
 ## Google Assistant
 
-I recently got the Google Nexus and have been attempting to work my entire life around Google Assistant. My problem seemed like an obvious candidate to be solved using the voice commands with my phone, so I started investigating into the Assistant. Unfortunately I couldn't find any way of hooking up the Google Assistant directly to Habitica. So I figured I would need to add some sort of intermediary step between Google Assistant and Habitica.
+I recently got the Google Pixel and have been attempting to work my entire life around Google Assistant. My problem seemed like an obvious candidate to be solved using the voice commands with my phone, so I started investigating into the Assistant. Unfortunately I couldn't find any way of hooking up the Google Assistant directly to Habitica. So I figured I would need to add some sort of intermediary step between Google Assistant and Habitica.
 
 ## IFTTT and todoist and Maker
 
