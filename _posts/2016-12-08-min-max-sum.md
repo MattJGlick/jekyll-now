@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hackerrank - Min Max Sum
+title: HackerRank - Min Max Sum
 ---
 Hackerrank emailed me this [one](https://www.hackerrank.com/challenges/mini-max-sum) and figured I would give it a go. Given 5 numbers determine the min and max sums of 4 of those numbers. I've expanded my solution to work for n numbers given they are in an array. Trying this one in python as well!
 
