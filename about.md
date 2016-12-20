@@ -12,6 +12,8 @@ I'm a full stack engineer based out of the Greater Philadelphia Area. I strive o
 
 [Amazon FBA Calculator](https://github.com/MattJGlick/amazon_fba_fee_calculator): Simple js file for evaluating Fulfillment By Amazon fees. Fully tested and utilized within other apps I have running.
 
+[Habitica ToDo Exchange](https://github.com/MattJGlick/habitica_todo_exchange): Intermediary Node.js application that sits between IFTTT and Habitica. Allows me to use voice commands on Google Assistant to add tasks to my To-Do list on Habitica. I blogged about it [here]({% post_url 2016-12-20-habitica-google-assistant %}).
+
 [Financial Independence Calculator](https://github.com/MattJGlick/FireCalc): Calculator for determining how long before someone can retire. Factors in age, investments, current income/expenses, future expeneses, etc. Long term I'd like to include a Monte Carlo simulation to determine possible outcomes and percentages.
 
 [APUE Learning Unix](https://github.com/MattJGlick/learning_unix): I'm _slowly_ working through the book "Advanced Programming in the UNIX Environment", then adding some of the problems as I go. Working in a UNIX system has always been second nature to me, but fully understanding everything that's going on behind the scenes is where I have some gaps. Using this to attempt to fill them.
