@@ -55,12 +55,12 @@ The best option was to use their one hour scheduler.
 ![heroku cron](/images/heroku-cron.png)
 
 However, I didn't want to have it tweet every single hour. I wouldn't be able to keep up with the
-need for new quotes constantly. So every hour it has a 30% chance of tweeting. Which adds a nice bit
-of randomization to the bot.
+need for new quotes constantly. So every hour it has a 30% chance of tweeting (Update, this was pulled into an 
+env var to allow for easier updating). Which adds a nice bit of randomization to the bot.
 
 Once the tweeting on a random interval was handled, it was good to go! It's now live at 
 [https://twitter.com/OfficeQuotesBot](https://twitter.com/OfficeQuotesBot). Now I just need to amass
 some twitter followers!
 
 ## Ideas to improve
-- Pull the randomization at which it tweets out into an env var.
+- ~~Pull the randomization at which it tweets out into an env var.~~ Implemented
