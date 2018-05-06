@@ -8,6 +8,8 @@ a weekend or so. To make this easier I put together a script that handles all of
 management for me. We use a Spigot server which allows us to add plugins to tune the game a bit
 to our needs. We use Digital Ocean for our hosting which has been terrific so far!
 
+The link to the repo can be found: [here](https://github.com/MattJGlick/minecraft_scripts)
+
 ## Quickstart
 
 ```

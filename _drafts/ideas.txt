@@ -1,5 +1,3 @@
-- gitflow: importance, issues, developer pitfalls
-
 - python recursively traversing json obj
 
 - python unit tests
