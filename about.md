@@ -4,9 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I'm a full stack engineer based out of the Greater Philadelphia Area. I strive on solving problems and finding challenges. I've worked at places where complacency is the standard, I'm not interested in that. I'm looking to make change, improve process, and push myself to be the best software developer I can be.
+I'm a leader of engineering teams based out of the Greater Philadelphia area. I live for complex problems, improving processes and building terrific products. I've worked for both large and small companies, I've seen complacency and the boredom that it breeds, I'm not interested in that. I'm looking to wake up everyday and be excited about what I'm working on.
 
-### Interesting Projects 
+### Interesting Projects / Posts
+
+[Syapse's Profile on Me](https://medium.com/syapse/meet-tech-lead-matt-glick-14deda1dc6b5): While working at Syapse, they did an article on me and my experience with the company. Check it out!
 
 [Amazon FBA Sourcing Analyzer](https://github.com/MattJGlick/fba-sourcing-analyzer): Node.js application that runs continuously on a Digital Ocean droplet scraping some key websites for Amazon deals. It makes a full analysis of all of the possible items, then using a personally designed algorithm determines if it is worth purchasing for resale at a later date.
 
