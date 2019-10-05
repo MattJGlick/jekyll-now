@@ -3,7 +3,7 @@ layout: post
 title: My Quantified Self (Part 1)
 ---
 
-The "Quanitified Self" movement has been relatively popular over the last couple of years. Since college I've dipped my toes in the water with a few different things, but recently I've decided to dive in head first. There are a ton of different apps that I'm using, so I've decided to document them here for myself and others that want to do similarly!
+The "Quanitified Self" movement has been relatively popular over the last couple of years. Since college I've dipped my toes in the water with a few different things, but recently I've decided to dive in head first. There are a ton of different apps that I'm using, so I'm going to document them here for myself and others that want to do similarly!
 
 ## What I've Been Using For Years
 
